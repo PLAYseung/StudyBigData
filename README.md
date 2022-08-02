@@ -10,7 +10,8 @@ use vscode for python study bigData repository
   - 네이버 API
   - 공공데이터 API
   - 패키지 시용
-
+  
+https://youneedawiki.com/app/page/18m--4ihlq1eAhPGXDxepkx8oxjS17iNt?p=1jrCSFvutPsjdF5ctDWUuu4ry6C3nqwvX
 ## Day 2
 
 ## Day 3
