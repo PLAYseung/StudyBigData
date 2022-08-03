@@ -16,14 +16,20 @@ https://youneedawiki.com/app/page/18m--4ihlq1eAhPGXDxepkx8oxjS17iNt?p=1jrCSFvutP
 ## Day 2
 - 웹 크롤링
   - 공공데이터 API
-  - 라이브러리 사용
+    - csv 처리
+    - db 처리
 
-- 빅데이터 분석
-  - 통계분석
+  - 라이브러리 사용
 
 
 ## Day 3
+- 웹 크롤링
+  - Beautifulsoup
+  - Selenium
 
+- 빅데이터분석
+  - 통계 분석
+  
 ## Day 4
 
 ## Day 5
