@@ -26,11 +26,11 @@ https://youneedawiki.com/app/page/18m--4ihlq1eAhPGXDxepkx8oxjS17iNt?p=1jrCSFvutP
 - 웹 크롤링
   - Beautifulsoup
   - Selenium
-
-- 빅데이터분석
-  - 통계 분석
   
 ## Day 4
+- 빅데이터분석
+  - 통계 분석
+  - 상관 분석
 
 ## Day 5
 
