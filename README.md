@@ -29,9 +29,14 @@ https://youneedawiki.com/app/page/18m--4ihlq1eAhPGXDxepkx8oxjS17iNt?p=1jrCSFvutP
   
 ## Day 4
 - 빅데이터분석
-  - 통계 분석
-  - 상관 분석
+  - 통계분석
+  - 상관분석
 
 ## Day 5
+- 빅데이터 분석
+  - 상관분석
+  - 텍스트 빈도 분석
 
 ## Day 6
+- 빅데이터 분석
+  - 지리정보 분석
