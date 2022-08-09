@@ -40,3 +40,4 @@ https://youneedawiki.com/app/page/18m--4ihlq1eAhPGXDxepkx8oxjS17iNt?p=1jrCSFvutP
 ## Day 6
 - 빅데이터 분석
   - 지리정보 분석
+  - 인프런 강좌 내용 따라하기 (스타벅스_이디아)
