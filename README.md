@@ -46,3 +46,5 @@ https://youneedawiki.com/app/page/18m--4ihlq1eAhPGXDxepkx8oxjS17iNt?p=1jrCSFvutP
 - PyQt5 학습
   - PyQt5, Designer 설치
   - PyQt5 basic form
+
+## pyQt 2
