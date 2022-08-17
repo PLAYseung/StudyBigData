@@ -48,3 +48,10 @@ https://youneedawiki.com/app/page/18m--4ihlq1eAhPGXDxepkx8oxjS17iNt?p=1jrCSFvutP
   - PyQt5 basic form
 
 ## pyQt 2
+- PyQt5 학습
+  - qtDesigner로 UI생성
+
+## pyQt 3
+- PyQt5
+  - 네이버 뉴스 검색
+  - 네이버 영화 검색
