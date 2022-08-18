@@ -10,8 +10,7 @@ use vscode for python study bigData repository
 - 웹 크롤링 
   - 네이버 API
   - 공공데이터 API 신청
-  
-https://youneedawiki.com/app/page/18m--4ihlq1eAhPGXDxepkx8oxjS17iNt?p=1jrCSFvutPsjdF5ctDWUuu4ry6C3nqwvX
+  - [참고할 교제](https://youneedawiki.com/app/page/18m--4ihlq1eAhPGXDxepkx8oxjS17iNt?p=1jrCSFvutPsjdF5ctDWUuu4ry6C3nqwvX)
 
 ## Day 2
 - 웹 크롤링
