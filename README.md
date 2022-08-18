@@ -56,4 +56,5 @@ https://youneedawiki.com/app/page/18m--4ihlq1eAhPGXDxepkx8oxjS17iNt?p=1jrCSFvutP
   - 네이버 뉴스 검색
   - 네이버 영화 검색
 
+  ![pyqt5 네이버 ](https://github.com/PLAYseung/StudyBigData/tree/main/pyQt03)
   ![navernews.api](https://github.com/PLAYseung/StudyBigData/blob/main/pyQt03/pyqt_naver_crawling.png?raw=true)
