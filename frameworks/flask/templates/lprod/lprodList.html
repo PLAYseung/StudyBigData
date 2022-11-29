@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>::: 상품분류정보 전체 조회 :::</title>
+    <script>
+        // 상품분류 정보 입력하기
+        function goLprodInsert() {
+            if(confirm("상품분류 정보를 입력 하시겠습까?")){
+                location.href = "/lprodInsertForm";
+            }
+        }
+
+        // 상품 상세보기 페이지로 이동
+        function goLprodView(lprod_gu){
+            document.getElementById("lprod_gu").value = lprod_gu;
+            //alert(document.getElementById("lprod_gu").value)
+            document.getElementById("fm").submit();
+        }
+    </script>
+</head>
+<body>
+<form id="fm" name="fm" method="post" action="/lprodView/">    
+    <input type="hidden" id="lprod_gu" name="lprod_gu">
+</form>
+    <hr>
+    <p>
+        <a href="/">홈으로 가기..</a> &nbsp; | &nbsp; 
+        <a href="javascript:goLprodInsert();">입력하기</a>
+    </p>
+    <hr>
+    <table border=1>
+        <tr>
+            <td>상품번호</td>
+            <td>상품분류코드</td>
+        </tr>
+        
+        {% for d in list_rows %}
+            <tr>
+                <td>
+                    <!-- <a href="/lprodView?lprod_gu={{d.lprod_gu}}">{{d.lprod_id}}</a> -->
+                    <a href="javascript:goLprodView('{{d.lprod_gu}}');">
+                        {{d.lprod_id}}
+                    </a>
+                </td>
+                <td>
+                    {{d.lprod_nm}}
+                </td>
+            </tr>
+        {% endfor %}
+
+    </table>
+</body>
+</html>

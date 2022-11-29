@@ -28,20 +28,7 @@ def getRequestUrl(url):
         print(f'[{datetime.datetime.now()}] Error for Url : {url}')
         return None
 
-def getCourseInfo():
-    service_url = 'http://apis.data.go.kr/6260000/fbusangmgcourseinfo/getgmgcourseinfo'
-    params = f'?serviceKey={Servicekey}'
-    params += f'&numOfRows=10'
-    params += f'&pageNo=1'
-    params += f'&resultType=json'
-    url = service_url+params
-
-    retData = getRequestUrl(url)
-
-    if retData == None:
-        return None
-    else:
-        return json.loads(retData)
+8
 
 def getCourseService():
     result = []
